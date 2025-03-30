@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meta/Guides/✍️Vault Credits.md",
+                "file": "🏠Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✍️Vault Credits"
+              "title": "🏠Home"
             }
           }
         ]
@@ -88,10 +88,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "meta/Guides/✍️Vault Credits.md"
+                "file": "🏠Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ✍️Vault Credits"
+              "title": "File properties for 🏠Home"
             }
           },
           {
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meta/Guides/✍️Vault Credits.md",
+                "file": "🏠Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ✍️Vault Credits"
+              "title": "Outline of 🏠Home"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meta/Guides/✍️Vault Credits.md",
+                "file": "🏠Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ✍️Vault Credits"
+              "title": "Backlinks for 🏠Home"
             }
           },
           {
@@ -194,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meta/Guides/✍️Vault Credits.md",
+                "file": "🏠Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ✍️Vault Credits"
+              "title": "Outgoing links from 🏠Home"
             }
           }
         ],
@@ -223,16 +223,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08cfed3a1269eb2a",
+  "active": "2d529d9e000930cd",
   "lastOpenFiles": [
+    "📘Start Here!.md",
+    "README.md",
+    "meta/Guides/✍️Vault Credits.md",
     "New Text Document.txt",
     "Untitled.md",
-    "meta/Guides/✍️Vault Credits.md",
-    "README.md",
     "🏠Home.md",
     "Brainstorming/Canvases/Example Canvas.canvas",
     "meta/Guides/🔌Recommended Plugins.md",
-    "📘Start Here!.md",
     "Community Plugins.md",
     "meta/Guides/🌻Getting Started.md",
     "Brainstorming/202503301638 example of the idea system.md",
