@@ -1,6 +1,7 @@
 # to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
 .obsidian/plugins
 
+./meta/archive
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store

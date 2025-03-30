@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠Home.md",
+                "file": "meta/archive/Guides/📘Start Here!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏠Home"
+              "title": "📘Start Here!"
             }
           }
         ]
@@ -88,10 +88,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🏠Home.md"
+                "file": "meta/archive/Guides/📘Start Here!.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 🏠Home"
+              "title": "File properties for 📘Start Here!"
             }
           },
           {
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠Home.md",
+                "file": "meta/archive/Guides/📘Start Here!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠Home"
+              "title": "Outline of 📘Start Here!"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠Home.md",
+                "file": "meta/archive/Guides/📘Start Here!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🏠Home"
+              "title": "Backlinks for 📘Start Here!"
             }
           },
           {
@@ -194,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠Home.md",
+                "file": "meta/archive/Guides/📘Start Here!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🏠Home"
+              "title": "Outgoing links from 📘Start Here!"
             }
           }
         ],
@@ -223,23 +223,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d529d9e000930cd",
+  "active": "08cfed3a1269eb2a",
   "lastOpenFiles": [
-    "📘Start Here!.md",
+    "meta/archive",
+    "🏠Home.md",
+    "Brainstorming/Canvases/🗺️Canvases.md",
+    "Brainstorming/💡Ideas.md",
+    "Brainstorming/Canvases/Example Canvas.canvas",
+    "meta/archive/Guides/📘Start Here!.md",
     "README.md",
-    "meta/Guides/✍️Vault Credits.md",
+    "meta/archive/Guides/✍️Vault Credits.md",
     "New Text Document.txt",
     "Untitled.md",
-    "🏠Home.md",
-    "Brainstorming/Canvases/Example Canvas.canvas",
-    "meta/Guides/🔌Recommended Plugins.md",
+    "meta/archive/Guides/🔌Recommended Plugins.md",
     "Community Plugins.md",
-    "meta/Guides/🌻Getting Started.md",
+    "meta/archive/Guides/🌻Getting Started.md",
     "Brainstorming/202503301638 example of the idea system.md",
     "meta/templates/new-idea.md",
-    "Brainstorming/💡Ideas.md",
     "meta/templates/new-composed-note.md",
-    "meta/Guides",
+    "meta/archive/Guides",
     "Home.md",
     "Brainstorming/Ideas.md",
     "meta/templates",
