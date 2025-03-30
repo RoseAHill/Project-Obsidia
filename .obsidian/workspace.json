@@ -11,14 +11,17 @@
             "id": "2d529d9e000930cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🏠Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Brainstorming/Canvases/Example Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "🏠Home"
+              "icon": "lucide-layout-dashboard",
+              "title": "Example Canvas"
             }
           }
         ]
@@ -88,10 +91,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🏠Home.md"
+                "file": "Brainstorming/Canvases/Example Canvas.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for 🏠Home"
+              "title": "File properties for Example Canvas"
             }
           },
           {
@@ -128,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠Home.md",
+                "file": "Brainstorming/Canvases/Example Canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠Home"
+              "title": "Outline of Example Canvas"
             }
           },
           {
@@ -175,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠Home.md",
+                "file": "Brainstorming/Canvases/Example Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🏠Home"
+              "title": "Backlinks for Example Canvas"
             }
           },
           {
@@ -194,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠Home.md",
+                "file": "Brainstorming/Canvases/Example Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🏠Home"
+              "title": "Outgoing links from Example Canvas"
             }
           }
         ],
@@ -225,7 +228,10 @@
   },
   "active": "2d529d9e000930cd",
   "lastOpenFiles": [
+    "meta/Guides/🔌Recommended Plugins.md",
+    "Brainstorming/Canvases/Example Canvas.canvas",
     "📘Start Here!.md",
+    "Community Plugins.md",
     "meta/Guides/🌻Getting Started.md",
     "🏠Home.md",
     "Brainstorming/202503301638 example of the idea system.md",
