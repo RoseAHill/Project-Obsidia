@@ -136,19 +136,8 @@
               "icon": "lucide-list",
               "title": "Outline of 🏠Home"
             }
-          },
-          {
-            "id": "147b21fb6680859f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5dddadc38c9ba9f8",
@@ -201,9 +190,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 🏠Home"
             }
+          },
+          {
+            "id": "147b21fb6680859f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -223,35 +222,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08cfed3a1269eb2a",
+  "active": "2d529d9e000930cd",
   "lastOpenFiles": [
-    "World Lore/Threads",
-    "World Lore/🎓Fundamentals",
-    "World Lore/🌳Nature",
-    "World Lore/🐾Creatures",
-    "World Lore/🗝️Items",
-    "Untitled",
-    "World Lore/👥Groups",
-    "World Lore/🗺️Locations",
-    "World Lore/👤Characters",
-    "zmeta/archive/Guides/📘Start Here!.md",
-    "zmeta/archive",
+    "Game Logs/Players/🧙‍♂️Player Characters Index.md",
+    "zmeta/templates/characters/New PC.md",
+    "zmeta/templates/characters/New NPC.md",
+    "World Lore/Nature/🌿Nature.md",
+    "World Lore/Concepts/🎓Concepts.md",
     "🏠Home.md",
-    "🧠Brainstorming/Canvases/🗺️Canvases.md",
-    "🧠Brainstorming/💡Ideas.md",
-    "🧠Brainstorming/Canvases/Example Canvas.canvas",
-    "README.md",
-    "zmeta/archive/Guides/✍️Vault Credits.md",
-    "New Text Document.txt",
-    "Untitled.md",
-    "zmeta/archive/Guides/🔌Recommended Plugins.md",
-    "Community Plugins.md",
-    "zmeta/archive/Guides/🌻Getting Started.md",
-    "🧠Brainstorming/202503301638 example of the idea system.md",
-    "zmeta/templates/new-idea.md",
-    "zmeta/templates/new-composed-note.md",
-    "Home.md",
-    "Brainstorming/Ideas.md",
-    "Welcome.md"
+    "World Lore/Items/🗝️Items.md",
+    "World Lore/History/📖History.md",
+    "World Lore/Locations/🗺️Locations.md",
+    "World Lore/Creatures/🐾Creatures.md",
+    "World Lore/Factions/👥Factions.md",
+    "World Lore/Characters/👤Characters.md",
+    "zmeta/templates/characters",
+    "Game Logs/Players",
+    "Plot/Threads/🧵Threads Index.md",
+    "Game Logs/🎲Game Log Index.md",
+    "zmeta/templates/New Event.md",
+    "zmeta/templates/locations/New Nation.md",
+    "zmeta/templates/locations/New POI.md",
+    "zmeta/templates/locations/New Region.md",
+    "zmeta/templates/locations/New Settlement.md",
+    "zmeta/templates/locations",
+    "Timeline/Game Logs",
+    "Plot/Quests/❕Side Quests.md",
+    "Plot/Quests/❗Main Quests.md",
+    "Plot/Quests/Untitled",
+    "Plot/Quests/💰Bounties.md",
+    "Plot/Quests/Bounties/Untitled",
+    "Plot/Quests",
+    "Plot/Quests/Bounties",
+    "Plot/Threads",
+    "Plot",
+    "zmeta/archive/Guides/📘Start Here!.md",
+    "Brainstorming/Canvases/🗺️Canvases.md",
+    "Brainstorming/💡Ideas.md",
+    "Brainstorming/Canvases/Example Canvas.canvas",
+    "README.md"
   ]
 }

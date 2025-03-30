@@ -4,4 +4,19 @@
 # scratch paper
 [[💡Ideas]]
 [[🗺️Canvases]]
-# lore
+# world lore
+[[🎓Concepts]]
+[[👤Characters]]
+[[👥Factions]]
+[[🐾Creatures]]
+[[🌿Nature]]
+[[🗺️Locations]]
+[[📖History]]
+[[🗝️Items]]
+# plot
+[[🧵Threads Index]]
+[[❗Main Quests]]
+[[❕Side Quests]]
+[[💰Bounties]]
+# game logs
+[[🎲Game Log Index]]

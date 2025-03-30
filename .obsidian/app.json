@@ -3,5 +3,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "hidden",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "userIgnoreFilters": [
+    "zmeta/"
+  ]
 }
