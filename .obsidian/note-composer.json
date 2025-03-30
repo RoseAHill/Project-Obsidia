@@ -1,0 +1,4 @@
+{
+  "askBeforeMerging": true,
+  "template": "meta/templates/new-composed-note"
+}

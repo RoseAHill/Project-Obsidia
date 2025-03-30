@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "d838021a63e6e5ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f9d337cba35d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d529d9e000930cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta/Guides/🌻Getting Started.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🌻Getting Started"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d832fa08ca098593",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d579d9a1206ae5",
+        "type": "tabs",
+        "dimension": 83.55555555555556,
+        "children": [
+          {
+            "id": "08cfed3a1269eb2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be44e778f80a60e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "484625d20024f491",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "06bb5e7e22804a48",
+        "type": "tabs",
+        "dimension": 16.444444444444446,
+        "children": [
+          {
+            "id": "af1c6abf35d95149",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "meta/Guides/🌻Getting Started.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 🌻Getting Started"
+            }
+          },
+          {
+            "id": "e5b2ec568dce62d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4740cbe36ee42a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "129090dcf070bc56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d97d0b985b18a51e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "meta/Guides/🌻Getting Started.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🌻Getting Started"
+            }
+          },
+          {
+            "id": "147b21fb6680859f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5dddadc38c9ba9f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5f4a681f33b111",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2597500b162d0248",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "meta/Guides/🌻Getting Started.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🌻Getting Started"
+            }
+          },
+          {
+            "id": "b2a4c5f328a15b59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "meta/Guides/🌻Getting Started.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🌻Getting Started"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "system3-relay:Relay": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "08cfed3a1269eb2a",
+  "lastOpenFiles": [
+    "📘Start Here!.md",
+    "🏠Home.md",
+    "meta/Guides/🌻Getting Started.md",
+    "Brainstorming/202503301638 example of the idea system.md",
+    "meta/templates/new-idea.md",
+    "Brainstorming/💡Ideas.md",
+    "meta/templates/new-composed-note.md",
+    "meta/Guides/✍️Vault Credits.md",
+    "meta/Guides",
+    "Home.md",
+    "Brainstorming/Ideas.md",
+    "meta/templates",
+    "meta",
+    "Brainstorming/Canvases",
+    "Brainstorming",
+    "Lore",
+    "Welcome.md"
+  ]
+}

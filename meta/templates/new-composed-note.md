@@ -1,0 +1,4 @@
+# {{newTitle}}
+
+*From [[{{fromTitle}}]]:*
+{{content}}

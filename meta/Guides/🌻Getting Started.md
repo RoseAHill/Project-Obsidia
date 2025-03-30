@@ -1,0 +1,1 @@
+To install this vault, download the release on GitHub.

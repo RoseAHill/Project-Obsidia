@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1743364686713,
+      "path": "🏠Home.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1743364674969,
+      "path": "Brainstorming/💡Ideas.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1743366499351,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1743366623656,
+          "path": "📘Start Here!.md",
+          "title": "📖Suggested Reading"
+        }
+      ],
+      "title": "📚Guides"
+    }
+  ]
+}
