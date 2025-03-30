@@ -11,17 +11,14 @@
             "id": "2d529d9e000930cd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Brainstorming/Canvases/Example Canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Example Canvas"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -91,10 +88,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Brainstorming/Canvases/Example Canvas.canvas"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Example Canvas"
+              "title": "File properties for README"
             }
           },
           {
@@ -131,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brainstorming/Canvases/Example Canvas.canvas",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Example Canvas"
+              "title": "Outline of README"
             }
           },
           {
@@ -178,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brainstorming/Canvases/Example Canvas.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Example Canvas"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -197,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brainstorming/Canvases/Example Canvas.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Example Canvas"
+              "title": "Outgoing links from README"
             }
           }
         ],
@@ -228,12 +225,13 @@
   },
   "active": "2d529d9e000930cd",
   "lastOpenFiles": [
-    "meta/Guides/🔌Recommended Plugins.md",
+    "🏠Home.md",
+    "README.md",
     "Brainstorming/Canvases/Example Canvas.canvas",
+    "meta/Guides/🔌Recommended Plugins.md",
     "📘Start Here!.md",
     "Community Plugins.md",
     "meta/Guides/🌻Getting Started.md",
-    "🏠Home.md",
     "Brainstorming/202503301638 example of the idea system.md",
     "meta/templates/new-idea.md",
     "Brainstorming/💡Ideas.md",

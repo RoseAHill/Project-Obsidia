@@ -2,5 +2,6 @@
   "showInlineTitle": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "useMarkdownLinks": false
 }
