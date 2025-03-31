@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - character/NPC
 aliases: 
 species: 
 locations: 

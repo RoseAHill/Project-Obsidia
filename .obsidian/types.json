@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "created": "datetime",
-    "locations": "multitext"
+    "locations": "multitext",
+    "encounters": "multitext",
+    "have visited": "checkbox"
   }
 }

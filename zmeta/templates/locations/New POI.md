@@ -8,7 +8,7 @@ encounters:
 located_in: 
 location_type: POI
 plane: 
-have_been:
+have visited:
 ---
 *Point of Interest*
 ## Synopsis
